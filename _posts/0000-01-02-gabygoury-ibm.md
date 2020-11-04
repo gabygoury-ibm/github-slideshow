@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+City Girls make em wish like Ray J 😛
 Use the left arrow to go back!
